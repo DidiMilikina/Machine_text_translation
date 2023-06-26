@@ -1,0 +1,18 @@
+NUM_HEADS = 4
+EMBEDDING_DIM = 128 
+
+# Introduce larger model
+# NUM_HEADS = 16
+# EMBEDDING_DIM = 1024 
+
+TRAIN_RATIO = 0.6
+VAL_RATIO = 0.2
+DROPOUT_PROB = 0.1
+BATCH_SIZE = 32
+NUM_EPOCHS = 3
+LR = 0.0001
+DEPTH_ENCODER = 2
+DEPTH_DECODER = 4
+# Uncomment if you do not use fire module
+MODEL_TYPE = "enc_dec"
+NUM_LINES_READ = 801
