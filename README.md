@@ -8,3 +8,5 @@ The dataset used for the machine text translation task from English to French ca
 https://www.kaggle.com/datasets/dhruvildave/en-fr-translation-dataset?resource=download
 
 This dataset was chosen since it is created especially for machine text translation tasks.
+
+<i>Note: The dataset is NOT in this repository due to its size.<i/>
