@@ -13,6 +13,6 @@ NUM_EPOCHS = 3
 LR = 0.0001
 DEPTH_ENCODER = 2
 DEPTH_DECODER = 4
-# Uncomment if you do not use fire module
+# Comment out if you use fire module
 MODEL_TYPE = "enc_dec"
 NUM_LINES_READ = 801
